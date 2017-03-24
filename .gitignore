@@ -1,0 +1,8 @@
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+/Compiled Locales
+Build
+build
+TemporaryItems
+.DS_Store
